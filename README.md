@@ -4,11 +4,11 @@ An empty starting point for a stateless Ruby API using the rails-api gem, with a
 
 Installation
 ---------------
-# Run `npm install`
-# Run `bundle install`
-# Start rails `rails s`
-# Run `npm run devserve`
-# Go to `localhost:8080` to display the app
+* Run `npm install`
+* Run `bundle install`
+* Start rails `rails s`
+* Run `npm run devserve`
+* Go to `localhost:8080` to display the app
 
 There's a detailed tutorial on how to build this project at:
 http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/
