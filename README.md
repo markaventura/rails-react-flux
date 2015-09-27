@@ -4,8 +4,12 @@ An empty starting point for a stateless Ruby API using the rails-api gem, with a
 
 Installation
 ---------------
-There's a detailed tutorial on how to build this project at: http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/
+# Run `npm install`
+# Run `bundle install`
+# Start rails `rails s`
+# Run `npm run devserve`
+# Go to `localhost:8080` to display the app
 
-Demo
----------------
-There's a live demo of the finished project at: https://blabs.herokuapp.com
+There's a detailed tutorial on how to build this project at:
+http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/
+http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/
